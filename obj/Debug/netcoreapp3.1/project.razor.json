@@ -14432,13 +14432,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\cobby\\OneDrive\\Desktop\\School\\CIDM 3312\\Final_Project_Games\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\cobby\\OneDrive\\Desktop\\School\\CIDM 3312\\Final_Project_Games\\Pages\\Games\\Game.cshtml",
+      "TargetPath": "Pages\\Games\\Game.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\cobby\\OneDrive\\Desktop\\School\\CIDM 3312\\Final_Project_Games\\Pages\\Games\\Games.cshtml",
-      "TargetPath": "Pages\\Games\\Games.cshtml",
+      "FilePath": "c:\\Users\\cobby\\OneDrive\\Desktop\\School\\CIDM 3312\\Final_Project_Games\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
